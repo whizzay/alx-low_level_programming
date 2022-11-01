@@ -1,0 +1,2 @@
+# C - EVEN MORE ON POINTER
+0. 
